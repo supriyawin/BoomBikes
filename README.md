@@ -23,6 +23,8 @@
 - Apparent Temperature (atemp,temp): Positive impact, highest coefficien
 - Weather Situation: Light Snow (weathersit_Light Snow): Strong negative impact.
 - Season: Spring (season_spring): Strong negative impact.
+- Model R2 score is 0.828
+  
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
